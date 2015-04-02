@@ -1,0 +1,2 @@
+throttle-concurrents:1.8.4
+cloudbees-folder:4.7
